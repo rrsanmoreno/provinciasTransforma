@@ -33,11 +33,6 @@
 			"nombre": "El Loa"
 		},
 		{
-			"id": "pr7",
-			"region": "r7",
-			"nombre": "Tocopilla"
-		},
-		{
 			"id": "pr8",
 			"region": "r8",
 			"nombre": "Chañaral"
@@ -46,11 +41,6 @@
 			"id": "pr9",
 			"region": "r8",
 			"nombre": "Copiapó"
-		},
-		{
-			"id": "pr10",
-			"region": "r8",
-			"nombre": "Huasco"
 		},
 		{
 			"id": "pr11",
@@ -63,11 +53,6 @@
 			"nombre": "Elqui"
 		},
 		{
-			"id": "pr13",
-			"region": "r9",
-			"nombre": "Limarí"
-		},
-		{
 			"id": "pr14",
 			"region": "r10",
 			"nombre": "Isla de Pascua"
@@ -76,36 +61,6 @@
 			"id": "pr15",
 			"region": "r10",
 			"nombre": "Los Andes"
-		},
-		{
-			"id": "pr16",
-			"region": "r10",
-			"nombre": "Marga Marga"
-		},
-		{
-			"id": "pr17",
-			"region": "r10",
-			"nombre": "Petorca"
-		},
-		{
-			"id": "pr18",
-			"region": "r10",
-			"nombre": "Quillota"
-		},
-		{
-			"id": "pr19",
-			"region": "r10",
-			"nombre": "San Antonio"
-		},
-		{
-			"id": "pr20",
-			"region": "r10",
-			"nombre": "San Felipe de Aconcagua"
-		},
-		{
-			"id": "pr21",
-			"region": "r10",
-			"nombre": "Valparaíso"
 		},
 		{
 			"id": "pr22",
@@ -117,11 +72,7 @@
 			"region": "r11",
 			"nombre": "Cardenal Caro"
 		},
-		{
-			"id": "pr24",
-			"region": "r11",
-			"nombre": "Colchagua"
-		},
+		
 		{
 			"id": "pr25",
 			"region": "r12",
@@ -133,16 +84,6 @@
 			"nombre": "Curicó"
 		},
 		{
-			"id": "pr27",
-			"region": "r12",
-			"nombre": "Linares"
-		},
-		{
-			"id": "pr28",
-			"region": "r12",
-			"nombre": "Talca"
-		},
-		{
 			"id": "pr29",
 			"region": "r13",
 			"nombre": "Diguillín"
@@ -152,11 +93,7 @@
 			"region": "r13",
 			"nombre": "Itata"
 		},
-		{
-			"id": "pr31",
-			"region": "r13",
-			"nombre": "Punilla"
-		},
+		
 		{
 			"id": "pr32",
 			"region": "r14",
@@ -168,11 +105,6 @@
 			"nombre": "Biobío"
 		},
 		{
-			"id": "pr34",
-			"region": "r14",
-			"nombre": "Concepción"
-		},
-		{
 			"id": "pr35",
 			"region": "r15",
 			"nombre": "Cautín"
@@ -182,11 +114,7 @@
 			"region": "r15",
 			"nombre": "Malleco"
 		},
-		{
-			"id": "pr37",
-			"region": "r15",
-			"nombre": "Ranco"
-		},
+		
 		{
 			"id": "pr38",
 			"region": "r16",
@@ -202,16 +130,7 @@
 			"region": "r17",
 			"nombre": "Llanquihue"
 		},
-		{
-			"id": "pr41",
-			"region": "r17",
-			"nombre": "Osorno"
-		},
-		{
-			"id": "pr42",
-			"region": "r17",
-			"nombre": "Palena"
-		},
+		
 		{
 			"id": "pr43",
 			"region": "r18",
@@ -222,16 +141,7 @@
 			"region": "r18",
 			"nombre": "Capitán Prat"
 		},
-		{
-			"id": "pr45",
-			"region": "r18",
-			"nombre": "Coyhaique"
-		},
-		{
-			"id": "pr46",
-			"region": "r18",
-			"nombre": "General Carrera"
-		},
+		
 		{
 			"id": "pr47",
 			"region": "r19",
@@ -242,16 +152,7 @@
 			"region": "r19",
 			"nombre": "Magallanes"
 		},
-		{
-			"id": "pr49",
-			"region": "r19",
-			"nombre": "Tierra del Fuego"
-		},
-		{
-			"id": "pr50",
-			"region": "r19",
-			"nombre": "Última Esperanza"
-		},
+		
 		{
 			"id": "pr51",
 			"region": "r20",
@@ -261,27 +162,8 @@
 			"id": "pr52",
 			"region": "r20",
 			"nombre": "Cordillera"
-		},
-		{
-			"id": "pr53",
-			"region": "r20",
-			"nombre": "Maipo"
-		},
-		{
-			"id": "pr54",
-			"region": "r20",
-			"nombre": "Melipilla"
-		},
-		{
-			"id": "pr55",
-			"region": "r20",
-			"nombre": "Santiago"
-		},
-		{
-			"id": "pr56",
-			"region": "r20",
-			"nombre": "Talagante"
 		}
+		
 
 	]
 }
